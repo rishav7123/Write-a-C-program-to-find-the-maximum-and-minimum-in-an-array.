@@ -1,0 +1,1 @@
+# Write-a-C-program-to-find-the-maximum-and-minimum-in-an-array.
